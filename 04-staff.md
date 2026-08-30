@@ -22,7 +22,7 @@ Across the entire CA team, we offer a mix of in-person and zoom OHs, spread thro
 
 ### CA Team
 
-**Hasan Zegin (advising), MS in CS** <br/>
+**Hasan Zegin (advising and lead TA), MS in CS** <br/>
 Office hours: See class calendar
 
 **TBD (half advising, half grading), MS in CS** <br/>
