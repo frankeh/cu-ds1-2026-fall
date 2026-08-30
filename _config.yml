@@ -1,0 +1,16 @@
+baseurl:          /cu-ds1-2026-fall
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Distributed Systems Fundamentals'
+tagline:          'Columbia University Course COMS 4113'
+description:      ''
+url:              http://frankeh.github.io
+
+paginate:         1
+paginate_path:    /cu-ds1-2026-fall/blog/page:num
+
+# Custom vars
+version:          0.1
