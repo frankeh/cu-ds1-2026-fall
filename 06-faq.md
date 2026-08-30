@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAQ 2062
+title: FAQ 2026
 ---
 
 * Q: Should I complete HW0 (and HW1) if I am waitlisted?  Answer: YES, please complete them if you are hoping to ultimately enroll.  For HW0, instructions for how to bootstrap it are posted on courseworks, which will be available to everyone at Columbia until the end of the registration period.  To find the courseworks page for the course, search for 4113 on [Vergil](https://vergil.registrar.columbia.edu/).
