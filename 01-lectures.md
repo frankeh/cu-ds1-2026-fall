@@ -86,5 +86,5 @@ Lecture notes are linked as they become available.
       * formal specification and model checking
       * TLA+ primer
 
-  14. [Security and Byzantine fault tolerance]({{ site.baseurl }}/lectures/14-bft.pdf)
+#  14. [Security and Byzantine fault tolerance]({{ site.baseurl }}/lectures/14-bft.pdf)
 
