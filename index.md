@@ -26,6 +26,11 @@ The series, adopted from MIT's course, implements a fault-tolerant, sharded key/
 
 The grade will be assigned on performance of five [homeworks]({{ site.baseurl
 }}/02-homeworks) and a final exam.
+All students MUST take the exam at the designated time that will be assigned by the administration at some time during the semester. 
+The exam week is designated to be 12/17-12/23 and is outside our control.
+There are no make-up or alternate exams. If you cannot make the exam, please take the course next semester.
+Overall we will be grading this class over a reasonable curve.
+
 
 Additionally, extra credit *may* be awarded to students with significant and particularly insightful contributions on ED and/or in class throughout the semester. 
 There is no specific number of these awards, but you should think of awardees as people who have stood out consistently and have improved the class in some significant way.  
