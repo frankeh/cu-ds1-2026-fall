@@ -8,7 +8,7 @@ Submission deadlines are firm and will not be extended.
 Grade notification deadlines are subject to change.
 
 You can also subscribe to the deadline calendar, whose link is distributed through Ed.
-At the ** current time ** only the hw0 date is correct. 
+At the **current time** only the hw0/hw1 date are correct and the rest is guidance.
 
 
 | Coursework | Release date |   Submission   |    Time   |
