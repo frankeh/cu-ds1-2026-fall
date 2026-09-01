@@ -29,7 +29,7 @@ There will be **NO DEADLINE EXTENSIONS** for any reason other than health condit
 (of the student or of someone close if that impacts the student). However, there is a
 **48-hour grace period** per assignment with a total of **72-hour grace period** accumulated over all homeworks, for which you will not be
 downgraded.  Lateness is accounted at hour granularity (i.e., 1 second late == 1 hour late).
-Once you reach 48 hour on a single assignment or 72 hours total of lateness, the next homework to incur even a one-second delay
+Once you reach 48 hour on a single assignment or 72 hours total of lateness, the due homework to incur even a one-second delay
 will be graded as **ZERO**. Thus, the strong recommendation is to submit on time, even
 if with an only somewhat working homework.
 
