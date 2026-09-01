@@ -27,7 +27,7 @@ Deadlines are specified in each homework's instructions, summarized in the
 
 There will be **NO DEADLINE EXTENSIONS** for any reason other than health conditions
 (of the student or of someone close if that impacts the student). However, there is a
-**72-hour grace period**, accumulated over all homeworks, for which you will not be
+**48-hour grace period**, accumulated over all homeworks, for which you will not be
 downgraded.  Lateness is accounted at hour granularity (i.e., 1 second late == 1 hour late).
 Once you reach 72 hours of lateness, the next homework to incur even a one-second delay
 will be graded as **ZERO**. Thus, the strong recommendation is to submit on time, even

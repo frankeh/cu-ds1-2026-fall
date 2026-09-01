@@ -4,7 +4,7 @@ baseurl:          /cu-ds1-2026-fall
 permalink:        pretty
 
 # Setup
-title:            'Distributed Systems Fundamentals'
+title:            'Fall 2026 Distributed Systems Fundamentals'
 tagline:          'Columbia University Course COMS 4113'
 description:      'Fall 2026'
 url:              http://frankeh.github.io
