@@ -3,6 +3,8 @@ layout: default
 title: Overview
 ---
 
+# Fall 2026 Edition
+
 **Time** : Mon 7:00pm-9:30pm <br/>
 **Class Location**: 142 Uris Hall<br/>
 **ED**: Use courseworks link<br/>
