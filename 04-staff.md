@@ -9,7 +9,7 @@ You you will find staff office hours and locations by subscribing to the **class
 
 **Hubertus Franke, Adjunct Professor of Computer Science (CS)**<br/>
 Office hours:
-  - Mon 6:00pm - 6:45pm(CSB TBD)<br/>
+  - Mon 6:00pm - 6:45pm(Schermerhorn 401A)<br/>
   - on request (zoom)<br/>
 
 ## CA Roles

@@ -7,6 +7,7 @@ title: Overview
 
 **Time** : Mon 7:00pm-9:30pm <br/>
 **Class Location**: 142 Uris Hall<br/>
+**Instructor:**: Hubertus Franke<br/>
 **ED**: Use courseworks link<br/>
 **Office Hours**: Posted in [Staff and Office Hours]({{ site.baseurl
 }}/04-staff)
