@@ -58,3 +58,10 @@ if with an only somewhat working homework.
 - **Assignment 5: Model Checking Paxos**  
   - Build a bare-bones model checker, apply it to Paxos, and analyze various consensus scenarios.  
   - Introduces the principles of formal modeling and model checking, which are increasingly important in distributed systems.  
+
+
+## Grading of Homeworks
+
+Please refer to the homeworks and deadlines for the assignments.
+The Homeworks are 8 individually graded assignments ( note hw2,3,4 have parts a and b ). We take the best 6 of 7 of homeworks 1 - 4b for 10% each ( = 60%). Homework 5 is mandatory with also 10%. Hence your homeworks will contribute 70% of your grade.
+
