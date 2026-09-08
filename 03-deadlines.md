@@ -14,7 +14,7 @@ At the **current time** only the hw0/hw1 date are correct and the rest is guidan
 | Coursework | Release date |   Submission   |    Time   |
 |            |              |    deadline    |  provided |
 | ---------- | ------------ | -------------- | --------- |
-| hw0        |    Tue 09/08 |  **Sun 09/11** | 5 days(!) |
+| hw0        |    Tue 09/08 |  **Sun 09/13** | 5 days(!) |
 | ---------- | ------------ | -------------- | --------- |
 | hw1        |    Mon 09/14 |  **Mon 09/21** |    1 week |
 | ---------- | ------------ | -------------- | --------- |
