@@ -28,9 +28,6 @@ At the **current time** only the hw0/hw1 date are correct and the rest is guidan
 | hw4b       |    Mon 11/23 |  **Mon 12/07** |   2 weeks |
 | ---------- | ------------ | -------------- | --------- |
 | hw5        |    Mon 12/07 |  **Mon 12/21** |   2 weeks |
-| final exam |     TBD (\*)  |   in-person    |           |
 | ---------- | ------------ | -------------- | --------- |
-
-(\*)  **Registrar-assigned exam slot, December 17–23** 
-
-The projected date for final grade posting is **12/24**.
+| final exam |            - | **Mon 12/21 at 7:00pm (in person)** |         - |
+| ---------- | ------------ | -------------- | --------- |
