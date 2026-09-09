@@ -30,7 +30,7 @@ The series, adopted from MIT's course, implements a fault-tolerant, sharded key/
 The grade will be assigned on performance of five [homeworks]({{ site.baseurl
 }}/02-homeworks) and a final exam.
 All students MUST take the exam at the designated time that will be assigned by the administration at some time during the semester. 
-The exam week is designated to be 12/17-12/23 and is outside our control.
+The final exam is scheduled for Mon 12/21 at 7:00pm.
 There are no make-up or alternate exams. If you cannot make the exam, please take the course next semester.
 Overall we will be grading this class over a reasonable curve.
 

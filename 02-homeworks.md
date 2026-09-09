@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Homeworks
+title: Homeworks/Exams
 ---
 
 This course consists of a series of five heavy programming assignments.
@@ -65,3 +65,11 @@ if with an only somewhat working homework.
 Please refer to the homeworks and deadlines for the assignments.
 The Homeworks are 8 individually graded assignments ( note hw2,3,4 have parts a and b ). We take the best 6 of 7 of homeworks 1 - 4b for 10% each ( = 60%). Homework 5 is mandatory with also 10%. Hence your homeworks will contribute 70% of your grade.
 
+## Code Walkthrough
+
+To ensure the authenticity of your code we will have multiple 1:1 code walkthrough (you walk we ask questions). These are meant to ascertain you actually wrote and understand your code. These will be short and nothing to get excited about if you handed in original code. We will allow later in class the frequency and timing.
+
+## Final Exam
+
+There is an in person final exam on Mon 12/21 at 7:00pm (exception to the "in person" ofc is for CVN students).
+The exam counts 30% of your final grade.
