@@ -25,15 +25,13 @@ Across the entire CA team, we offer a mix of in-person and zoom OHs, spread thro
 **Hasan Zegin (advising and lead TA), MS in CS** <br/>
 Office hours: See class calendar
 
-**TBD (half advising, half grading), MS in CS** <br/>
+**Brian Paick (advising & grading), MS in CS** <br/>
 Office hours: See class calendar
 
-**TBD (advising), undergrad in CS** <br/>
+**Jonathan Ang (advising & grading), UG in CS** <br/>
 Office hours: See class calendar
 
-**TBD (grading), MS in CS** <br/>
+**Shen Li (advising & grading), MS in CS** <br/>
 Office hours: See class calendar
 
-**TBD (voluntary role), MS in CS** <br/>
-Office hours: See class calendar
 
