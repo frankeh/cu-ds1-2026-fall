@@ -34,4 +34,9 @@ Office hours: See class calendar
 **Shen Li (advising & grading), MS in CS** <br/>
 Office hours: See class calendar
 
+### Office hour Google Calendar
+
+[Google Calendar for Office Hours](https://calendar.google.com/calendar/u/0?cid=Y182MzA0OGFlMGJlNTBlM2ZjZjkxMDZlYWNjNWZlYThlYzE3Yjc4NDRhODI4ZTMwZGJmMWY3NTIyNTJiYzA2Y2I4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+
 
