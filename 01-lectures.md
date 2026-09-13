@@ -8,23 +8,19 @@ Each topic will be covered in (roughly) one lecture.
 Lecture notes are linked as they become available.
 
 0\. [Course introduction]({{ site.baseurl }}/lectures/00-course-introduction.pdf)
-
    * CAs' homework series intro (on courseworks/Files)
    * Go tutorial (on courseworks/Files)
 
 1\. [Distributed systems primer]({{ site.baseurl }}/lectures/01-distributed-systems-primer.pdf)
-
    * challenges and goals of distributed systems
    * example architectures
     
 2\. [Distributed computation]({{ site.baseurl }}/lectures/02-map-reduce.pdf)
-
    * MapReduce
    * Spark
    * Tradeoffs
 
 3\. [Communication models]({{ site.baseurl }}/lectures/03-rpc.pdf)
-
    * remote procedure calls (RPC)
    * RPC libraries
    * failure models
