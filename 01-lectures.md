@@ -45,23 +45,21 @@ Lecture notes are linked as they become available.
       * concurrency control mechanisms
       * recovery mechanisms
 
-  7. [Atomic commitment protocols]({{ site.baseurl }}/lectures/07-2pc.pdf)
+  7. [Atomic commitment protocols]({{ site.baseurl }}/lectures/07-two-phase-commit.pdf)
       * 2-phase-commit
       * blocking nature
 
-  8. [Consensus protocols]({{ site.baseurl }}/lectures/08-paxos.pdf)
+  8. [Consensus protocols]({{ site.baseurl }}/lectures/08-consensus.pdf)
       * Paxos overview, key ideas, basic algorithm
       * examples of normal operation and operation under failures
       * liveness failure mode
       * multi-Paxos
       * applications
 
-  9. Case studies from industry:
-      * [Google's Spanner scalable, fault-tolerant ACID database]({{ site.baseurl }}/lectures/09-spanner.pdf)
-      * [Google's Chubby fault-tolerant lock service]({{ site.baseurl
-      }}/lectures/09-chubby.pdf)
-      * [Google's Bigtable scalable, fault-tolerant, multi-dimensional, sorted
-      map]({{ site.baseurl }}/lectures/09-bigtable.pdf)
+  9. [Case studies from industry]({{ site.baseurl }}/lectures/09-industry.pdf)
+      * Google's Spanner scalable, fault-tolerant ACID database
+      * Google's Chubby fault-tolerant lock service
+      * Google's Bigtable scalable, fault-tolerant, multi-dimensional, sorted map
 
   10. [Broader view of isolation and consistency
      semantics]({{ site.baseurl }}/lectures/10-broader-semantics.pdf)
@@ -86,5 +84,5 @@ Lecture notes are linked as they become available.
       * formal specification and model checking
       * TLA+ primer
 
-#  14. [Security and Byzantine fault tolerance]({{ site.baseurl }}/lectures/14-bft.pdf)
+[//]: #  14. [Security and Byzantine fault tolerance]({{ site.baseurl }}/lectures/14-bft.pdf)
 
