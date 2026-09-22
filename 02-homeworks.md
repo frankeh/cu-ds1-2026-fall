@@ -47,6 +47,7 @@ if with an only somewhat working homework.
 - **Assignment 2: Primary/Backup Server**  
   - Develop a simple key/value server that achieves fault tolerance using an in-house protocol and the primary/backup architecture.  
   - Serves as a first step toward understanding the challenges of making stateful servers fault tolerant.  
+  [ Overview Assignment 1]({{ site.baseurl }}/lectures/homework-overviews/HW2-Overview-2026-Fall.pdf)
 
 - **Assignment 3: Paxos**  
   - Implement a fault-tolerant key/value store based on the Paxos protocol.  
