@@ -37,21 +37,21 @@ Lecture notes are linked as they become available.
    * use cases for each
    * FLP impossibility result of achieving consensus
 
-6\. [The transaction abstraction]({{ site.baseurl }}/lectures/06-local-transactions.pdf)
-   * ACID semantics
-   * concurrency control mechanisms
-   * recovery mechanisms
-
-7\. [Atomic commitment protocols]({{ site.baseurl }}/lectures/07-two-phase-commit.pdf)
-   * 2-phase-commit
-   * blocking nature
-
-8\. [Consensus protocols]({{ site.baseurl }}/lectures/08-consensus.pdf)
+6\. [Consensus protocols]({{ site.baseurl }}/lectures/06-consensus.pdf)
    * Paxos overview, key ideas, basic algorithm
    * examples of normal operation and operation under failures
    * liveness failure mode
    * multi-Paxos
    * applications
+
+7\. [The transaction abstraction]({{ site.baseurl }}/lectures/07-local-transactions.pdf)
+   * ACID semantics
+   * concurrency control mechanisms
+   * recovery mechanisms
+
+8\. [Atomic commitment protocols]({{ site.baseurl }}/lectures/08-two-phase-commit.pdf)
+   * 2-phase-commit
+   * blocking nature
 
 9\. [Case studies from industry]({{ site.baseurl }}/lectures/09-industry.pdf)
    * Google's Spanner scalable, fault-tolerant ACID database
