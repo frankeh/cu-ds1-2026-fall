@@ -22,7 +22,7 @@ At the **current time** only the hw0/hw1 date are correct and the rest is guidan
 | hw2b       |    Sun 10/04 |  **Tue 10/13** |   1 week  |
 | ---------- | ------------ | -------------- | --------- |
 | hw3a       |    Sun 10/11 |  **Tue 10/27** |   2 weeks |
-| hw3b       |    Sun 10/11 |  **Tue 11/09** |   2 weeks |
+| hw3b       |    Sun 10/11 |  **Tue 11/10** |   2 weeks |
 | ---------- | ------------ | -------------- | --------- |
 | hw4a       |    Sun 11/08 |  **Tue 11/24** |   2 weeks |
 | hw4b       |    Sun 11/08 |  **Tue 12/08** |   2 weeks |
