@@ -64,17 +64,21 @@ Lecture notes are linked as they become available.
    * mechanisms for each
    * performance/usability tradeoffs
 
-11\. [Beyond storage and MapReduce: Broader infrastructure systems]({{ site.baseurl }}/lectures/11-large-scale-software-stacks.pdf)
+11\. [Beyond storage and MapReduce: Broader infrastructure systems]({{ site.baseurl }}/lectures/11-warehouse-scale-systems.pdf}
+   * what's in a google search ( from a distributed system architecture )
+   * Kubernetes
+
+12\. [Beyond storage and MapReduce: Broader infrastructure systems]({{ site.baseurl }}/lectures/12-large-scale-software-stacks.pdf)
    * Google's software stack
    * Meta's software stack
    * Hadoop and Spark software stacks
 
-12\. [Cluster scheduling]({{ site.baseurl }}/lectures/12-scheduling.pdf)
+13\. [Cluster scheduling]({{ site.baseurl }}/lectures/13-scheduling.pdf)
    * scheduler architectures and considerations
    * frameworks: YARN, Mesos, Borg
    * algorithms: dominant resource fairness, bin packing
 
-13\. [Testing and model checking]({{ site.baseurl }}/lectures/13-testing-model-checking.pdf)
+14\. [Testing and model checking]({{ site.baseurl }}/lectures/14-testing-model-checking.pdf)
    * testing approaches and challenges
    * formal specification and model checking
    * TLA+ primer
