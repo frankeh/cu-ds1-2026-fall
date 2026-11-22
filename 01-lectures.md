@@ -68,20 +68,20 @@ Lecture notes are linked as they become available.
    * what's in a google search ( from a distributed system architecture )
    * Kubernetes
 
-12\. [Beyond storage and MapReduce: Broader infrastructure systems]({{ site.baseurl }}/lectures/12-large-scale-software-stacks.pdf)
-   * Google's software stack
-   * Meta's software stack
-   * Hadoop and Spark software stacks
+12\. [Testing and model checking]({{ site.baseurl }}/lectures/12-testing-model-checking.pdf)
+   * testing approaches and challenges
+   * formal specification and model checking
+   * TLA+ primer
 
 13\. [Cluster scheduling]({{ site.baseurl }}/lectures/13-scheduling.pdf)
    * scheduler architectures and considerations
    * frameworks: YARN, Mesos, Borg
    * algorithms: dominant resource fairness, bin packing
 
-14\. [Testing and model checking]({{ site.baseurl }}/lectures/14-testing-model-checking.pdf)
-   * testing approaches and challenges
-   * formal specification and model checking
-   * TLA+ primer
+14\. [Industry infrastructure systems]({{ site.baseurl }}/lectures/14-inside-the-stack.pdf)
+   * Google's software stack
+   * Meta's software stack
+   * Hadoop and Spark software stacks
 
 [//]: #  14. [Security and Byzantine fault tolerance]({{ site.baseurl }}/lectures/14-bft.pdf)
 
