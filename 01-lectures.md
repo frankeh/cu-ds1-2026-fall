@@ -64,7 +64,7 @@ Lecture notes are linked as they become available.
    * mechanisms for each
    * performance/usability tradeoffs
 
-11\. [Beyond storage and MapReduce: Broader infrastructure systems]({{ site.baseurl }}/lectures/11-warehouse-scale-systems.pdf)
+11\. [Warehouse Scale Computing]({{ site.baseurl }}/lectures/11-warehouse-scale-systems.pdf)
    * what's in a google search ( from a distributed system architecture )
    * Kubernetes
 
